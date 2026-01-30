@@ -7,7 +7,7 @@ pipeline
             {
                 steps
                 {
-                    git branch:'devops3',url:'https://github.com/bharanibala666-cloud/csea.git'
+                    git branch:'devopscse',url:'https://github.com/bharanibala666-cloud/csea.git'
                 }
             }
             stage('build')
